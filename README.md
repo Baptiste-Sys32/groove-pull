@@ -1,8 +1,6 @@
 # groove-pull 🎵
 
-A blazing fast, robust CLI tool to turn Spotify CSV exports into a perfectly tagged offline MP3 library, complete with official high-res cover art and synchronized scrolling lyrics (`.lrc`).
-
-No boilerplate, no-nonsense. Just high-speed extraction and automated library tagging.
+A CLI tool to turn Spotify CSV exports into a perfectly tagged offline MP3 library, complete with official high-res cover art and synchronized scrolling lyrics (`.lrc`).
 
 ---
 
