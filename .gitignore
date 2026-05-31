@@ -2,3 +2,9 @@
 __pycache__/
 *.py[cod]
 downloads/
+cookies.txt
+Main_Playlist.csv
+metadata_cache.json
+test_dl/
+*.sh
+normalize_metadata.py
